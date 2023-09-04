@@ -59,7 +59,7 @@ footer{
     color: white;
     padding: 10px 0px;
     width: 100%;
-    position: fixed;
+    position: static;
     bottom: 0;
 }
 
@@ -84,12 +84,6 @@ footer{
     margin: 0 auto;
     padding: 2rem;
     border: 1px solid #ccc;
-}
-
-#ImgDetails{
-        width: 400px;
-        height: 600px;
-
 }
 
 .detalhes-btn {
